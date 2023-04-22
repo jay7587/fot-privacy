@@ -1,3 +1,5 @@
+Introduction
+
 Mehndi Design Latest 2023 (HD) is committed to protecting the privacy of its users. This Privacy Policy outlines the types of information that may be collected by the app and how that information may be used.
 
 Collection of Information
@@ -26,4 +28,4 @@ Mehndi Design Latest 2023 (HD) reserves the right to modify this Privacy Policy 
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [insert contact email].
+If you have any questions or concerns about this Privacy Policy, please contact us at fot.appdev@gmail.com.
